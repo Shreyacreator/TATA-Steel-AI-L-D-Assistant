@@ -1,0 +1,27 @@
+Emp_ID,Role,Experience_Years,Skill_Score,Completed_Courses,Preferred_Language,Recommended_Training
+E001,Crane Operator,1,58,2,Hindi,Advanced Crane Safety
+E002,Blast Furnace Technician,8,84,12,English,Predictive Maintenance
+E003,Electrician,3,63,5,Hindi,Arc Flash Safety
+E004,Safety Officer,10,91,18,English,AI Safety Analytics
+E005,Mechanical Technician,2,49,1,Hindi,Basic Equipment Maintenance
+E006,Welding Technician,4,71,6,Hindi,Industrial Welding Safety
+E007,Production Supervisor,9,88,15,English,Lean Manufacturing
+E008,Mining Engineer,6,76,10,English,Mine Hazard Management
+E009,Quality Inspector,5,73,7,Hindi,Quality Assurance Systems
+E010,Automation Engineer,7,85,11,English,PLC and SCADA Systems
+E011,Warehouse Manager,4,68,5,Hindi,Smart Warehouse Operations
+E012,Shift Incharge,12,92,20,English,Industrial Leadership Program
+E013,Maintenance Engineer,6,79,9,Hindi,Preventive Maintenance
+E014,Forklift Operator,2,55,3,Hindi,Forklift Safety Training
+E015,Chemical Process Operator,5,74,8,English,Chemical Handling Safety
+E016,Boiler Operator,8,83,12,Hindi,Boiler Safety Compliance
+E017,Data Analyst,3,69,4,English,Industrial Data Analytics
+E018,Cybersecurity Analyst,4,81,7,English,Industrial Cybersecurity
+E019,Network Engineer,5,77,8,English,Network Infrastructure Security
+E020,Human Resource Executive,6,72,9,Hindi,Employee Skill Development
+E021,Material Handling Operator,2,60,3,Hindi,Safe Material Transportation
+E022,Steel Plant Operator,7,86,13,English,Steel Manufacturing Optimization
+E023,Environmental Engineer,5,75,8,English,Industrial Waste Management
+E024,Machine Operator,1,52,2,Hindi,CNC Machine Fundamentals
+E025,Thermal Power Technician,9,89,16,English,Thermal Plant Safety
+

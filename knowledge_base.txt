@@ -1,0 +1,19 @@
+Hot Metal Handling PPE:
+- Helmet
+- Face shield
+- Heat resistant gloves
+- Fire-retardant clothing
+- Safety shoes
+
+Lockout-Tagout (LOTO):
+1. Shut down equipment.
+2. Isolate all energy sources.
+3. Apply locks and tags.
+4. Verify zero energy.
+5. Perform work.
+6. Remove lockout and restore service.
+
+Crane Safety:
+- Inspect hooks and slings before use.
+- Never exceed rated load.
+- Maintain communication with signalers.
